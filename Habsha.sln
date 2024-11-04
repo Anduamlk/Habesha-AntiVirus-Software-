@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Habsha", "Habsha\Habsha.vbproj", "{46E3AD55-6679-4373-ADE5-384997152535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E3AD55-6679-4373-ADE5-384997152535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E3AD55-6679-4373-ADE5-384997152535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E3AD55-6679-4373-ADE5-384997152535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E3AD55-6679-4373-ADE5-384997152535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7566A25D-1D23-4003-9FAA-A70A367A3A65}
+	EndGlobalSection
+EndGlobal

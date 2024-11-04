@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controls\Activation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\MyButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Exitpop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Protection.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Home.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Main.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Admin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Base.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Login.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Malware.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Paypreim.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Status.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewFolder\Users.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Settsetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vpn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="detect.cs">
+      <SubType>Form</SubType>
+    </None>
+  </ItemGroup>
+</Project>
